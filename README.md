@@ -54,8 +54,7 @@ python src/vgg16_transfer_learning.py
 Example training accuracy:
 
 ![CNN Accuracy](results/cnn_accuracy.png)
-![TRANSFER LEARNING Accaracy](results/transfer_learning_accuracy.png)
-
+![TRANSFER LEARNING Accuracy](results/transfer_learning_Accuracy.png)
 ## Technologies Used
 
 * Python
